@@ -64,7 +64,7 @@
 }
 
 .header__subtitle p {
-  margin: 0 !important;
+  margin: 0
 }
 
 .header__subtitle {
@@ -79,9 +79,6 @@
   margin: 0;
 }
 
-.header__subtitle p {
-  margin: 0;
-}
 
 .header__link {
   text-decoration: none;
