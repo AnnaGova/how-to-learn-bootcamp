@@ -19,9 +19,10 @@
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 /*Блок футер и его элемент column c модификаторами*/
 @import url(../blocks/footer/__coulmn/footer_column.css);
-@import url(../blocks/footer/__coulmns/_content/footer__column_content_copyright.css);
-@import url(../blocks/footer/__coulmns/_content/footer__column_content_info.css);
-@import url(../blocks/footer/__coulmns/_content/footer__column_content_social.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/footer/__coulmns/footer_columns.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
@@ -35,15 +36,14 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
+
 /*Подключение блока kaufman и его элементов */
 @import url(../blocks/kaufmann/kaufmann.css);
 @import url(../blocks/kaufmann/__traingle/kaufman__traingle.css);
-@import url(../blocks/table/_theme/table_theme_dark.css);
-@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
-@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
-@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section_subtitle_theme_dark.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+
+
 /*Подключение блока khan и его элементов*/
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__author/khan__author.css);
@@ -89,6 +89,7 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
-
-
-
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
