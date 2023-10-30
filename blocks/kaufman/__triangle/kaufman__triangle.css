@@ -1,6 +1,6 @@
-.kaufman__traingle {
-  min-width: 877px;
-  min-height: 877px;
+.kaufman__triangle {
+  width: 877px;
+  height: 877px;
   background: no-repeat url(../../../images/kaufman-triangle.svg);
   background-size: 877px 877px;
   position: absolute;

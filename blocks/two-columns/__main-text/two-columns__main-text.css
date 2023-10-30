@@ -1,5 +1,6 @@
 .two-columns__main-text {
   width: 80%;
+  min-width: 784px;
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -7,6 +8,9 @@
   font-size: 24px;
   font-style: normal;
   margin: 0;
-  margin-left: auto;
   list-style: none;
+}
+
+.two-columns__main-text p {
+  margin: 0;
 }
